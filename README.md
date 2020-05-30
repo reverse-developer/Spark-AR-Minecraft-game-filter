@@ -1,6 +1,6 @@
 # Spark-AR-Minecraft-game-filter
 The open source program to my Spark AR Minecraft game instagram / facebook filter
-![Spark AR Minecraft game filter](Spark AR Minecraft game filter.png)
+![Spark AR Minecraft game filter](Spark AR Minecraft game filter.jpeg)
 
 # procedural-ar
 Using [Simplex noise](https://www.npmjs.com/package/simplex-noise) to  Spark AR Minecraft game instagram / facebook filter
