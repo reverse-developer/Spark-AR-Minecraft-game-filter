@@ -4,7 +4,7 @@ The open source program to my Spark AR Minecraft game instagram / facebook filte
 # procedural-ar
 Using [Simplex noise](https://www.npmjs.com/package/simplex-noise) to  generate a map in Spark AR procedurally.
 
-![Procedural Demo GIF](demo.gif)
+![Procedural Demo GIF](demo.mp4)
 
 ## Usage
 
